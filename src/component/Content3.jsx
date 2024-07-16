@@ -1,7 +1,5 @@
 import React from "react";
 import "./portfolio.css";
-import rental from "./rental.png";
-import food from "./assets/Images/pakau.png";
 const Content3 = () => {
   return (
     <div className="content3">
@@ -54,7 +52,7 @@ const Content3 = () => {
               </p>
             </div>
           </div>
-      <div className="container2">
+      <div className="container3">
             <div className="content2">
               <h1 className="heading2">Food Recipe</h1>
               <p
@@ -80,7 +78,7 @@ const Content3 = () => {
               </p>
             </div>
           </div>
-      <div className="container2">
+      <div className="container4">
             <div className="content2">
               <h1 className="heading2">Food Recipe</h1>
               <p
