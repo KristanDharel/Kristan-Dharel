@@ -23,6 +23,7 @@
 }
 @media (max-width:580px) {
     .itemContent img{
-        height: 120px;
+        height: 130px;
+        padding-top: 30px;
     }
 }

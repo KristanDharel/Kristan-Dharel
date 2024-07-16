@@ -1,8 +1,6 @@
-import Skill from "./ingSkill.png";
-import DeerHold from "./deerhold.png";
-import Ick from "./icu.png";
-import deerhold from "./dhre.png";
-import ICK from "./ickRe.png";
+import deerhold from "./hold.png";
+import ICK from "./islington2.png";
+import Skill from "./skillaca.png";
 const journey_data = [
   {
     name: "ING SKILL ACADEMY CSR",
