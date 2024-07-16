@@ -1,0 +1,9 @@
+
+.exclusives{
+    display: grid;
+    grid-template-columns:  1fr ;
+    margin-top: 30px;
+    gap: 30px;
+  
+}
+

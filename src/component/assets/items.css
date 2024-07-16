@@ -1,0 +1,28 @@
+/* .item{
+  background-color: red;
+} */
+.item p{
+    margin: 0px 0px;
+}
+.item img{
+    margin-top: -3px;
+}
+/* .prop_duration{
+    margin-top: -30px;
+} */
+.prop_name{
+    font-size: 25px;
+    font-weight: 700;
+}
+.prop_duration{
+    font-style: italic;
+    color: rgb(110, 146, 56);
+}
+.prop_description{
+    font-size: 18px;
+}
+@media (max-width:580px) {
+    .itemContent img{
+        height: 120px;
+    }
+}
