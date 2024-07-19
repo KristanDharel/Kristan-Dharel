@@ -28,7 +28,7 @@ const Content3 = () => {
       </div> */}
       <div className="container2">
             <div className="content2">
-              <h1 className="heading2">Food Recipe</h1>
+              {/* <h1 className="heading2">Food Recipe</h1>
               <p
                 className="food_paragraph"
                 style={{
@@ -39,8 +39,8 @@ const Content3 = () => {
               >
                 This is food-recipe website.It is a group project. It has been
                 made in React.<br></br>
-              </p>
-              <p
+              </p> */}
+              {/* <p
                 className="note2"
                 style={{
                   display: "flex",
@@ -49,11 +49,11 @@ const Content3 = () => {
                 }}
               >
                 Click for the source code.
-              </p>
+              </p> */}
             </div>
           </div>
       <div className="container3">
-            <div className="content2">
+            {/* <div className="content2">
               <h1 className="heading2">Food Recipe</h1>
               <p
                 className="food_paragraph"
@@ -76,10 +76,10 @@ const Content3 = () => {
               >
                 Click for the source code.
               </p>
-            </div>
+            </div> */}
           </div>
       <div className="container4">
-            <div className="content2">
+            {/* <div className="content2">
               <h1 className="heading2">Food Recipe</h1>
               <p
                 className="food_paragraph"
@@ -102,7 +102,7 @@ const Content3 = () => {
               >
                 Click for the source code.
               </p>
-            </div>
+            </div> */}
           </div>
     
     </div>
